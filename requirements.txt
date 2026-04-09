@@ -1,0 +1,5 @@
+yt-dlp>=2024.0.0
+youtube-transcript-api>=0.6.0
+python-dotenv>=1.0.0
+webvtt-py>=0.5.0
+markdown>=3.5.0
