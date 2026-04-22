@@ -60,3 +60,4 @@ python -m http.server 8080 --directory output/<video_id>
 - 所有 Python 命令使用 `python` 执行（不要用 `pip`，用 `python -m pip`）
 - 所有外部工具（yt-dlp）通过 `sys.executable -m yt_dlp` 调用
 - 如果用户提供的是 YouTube 链接且终端无代理，字幕抓取可能会失败
+- 在生成或修改 HTML 时，请确保文本颜色与背景颜色的对比度符合 WCAG AA 标准（对比度至少 4.5:1）。

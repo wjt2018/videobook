@@ -21,3 +21,6 @@ venv.bak/
 .idea/
 *.swp
 *.swo
+
+memory/
+.claude/settings.local.json
